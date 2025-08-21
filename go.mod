@@ -4,7 +4,7 @@ go 1.24
 
 require (
 	github.com/apache/arrow-go/v18 v18.1.0
-	github.com/go-viper/mapstructure/v2 v2.2.1
+	github.com/go-viper/mapstructure/v2 v2.4.0
 	github.com/google/uuid v1.6.0
 	github.com/marcboeker/go-duckdb/arrowmapping v0.0.7
 	github.com/marcboeker/go-duckdb/mapping v0.0.7
